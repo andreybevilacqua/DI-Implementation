@@ -1,0 +1,1 @@
+Implementation of Dependency Injection in Java, with an example of a service that sends messages (email or SMS).
